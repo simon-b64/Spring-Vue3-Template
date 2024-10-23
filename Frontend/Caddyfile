@@ -1,0 +1,12 @@
+{
+    # Optional: enable access logs
+    log {
+        output stdout
+        format console
+    }
+}
+
+:80 {
+    root * /srv
+    file_server
+}

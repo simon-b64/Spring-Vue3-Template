@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Spring-Vue3-Template",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
